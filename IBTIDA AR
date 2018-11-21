@@ -14,7 +14,6 @@
 <h2>Ibtida 2019</h2>
 <font size="2">Refresh your browser if camera or AR/AI models are not loaded.</font>
 <ul data-role="listview" data-inset="true">
-
 <li>
  <a href="#" onclick="window.open('https://creator.youaugment.com/users_data/ayushbanerjee/ayushbanerjee_app1/youaugment/www/iblogo.html','_blank');">
  <img src='data/45336145_255555101824610_8858158503680802816_o.jpg'>
